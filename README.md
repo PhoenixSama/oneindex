@@ -7,7 +7,7 @@ Onedrive Directory Index
 直接列出 OneDrive 目录，文件直链下载。  
 
 ## Demo
-[https://xn.tn](https://xn.tn)  
+[https://ootori.xyz/oneindex](https://ootori.xyz/oneindex)  
 
 ## 安装运行
 
@@ -19,7 +19,7 @@ Onedrive Directory Index
 3、OneIndex 程序   
 
 ## 配置：
-<img width="658" alt="image" src="https://raw.githubusercontent.com/donwa/oneindex/files/images/install.gif">  
+<img width="658" alt="image" src="https://phoenix.imfast.io/install.gif">  
 
 ### 计划任务  
 [可选]**推荐配置**，非必需。后台定时刷新缓存，可增加前台访问的速度。  
