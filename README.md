@@ -19,7 +19,7 @@ Onedrive Directory Index
 3、OneIndex 程序   
 
 ## 配置：
-<img width="658" alt="image" src="http://ys-n.ys168.com/609239174/i853G6J6I4QNKSKwJgL/install.gif">  
+<img width="658" alt="image" src="https://miku.imfast.io/71835369_p0.jpg">  
 
 ### 计划任务  
 [可选]**推荐配置**，非必需。后台定时刷新缓存，可增加前台访问的速度。  
