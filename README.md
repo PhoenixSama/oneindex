@@ -6,8 +6,6 @@ Onedrive Directory Index
 
 直接列出 OneDrive 目录，文件直链下载。  
 
-## Demo
-[https://ootori.xyz/oneindex](https://ootori.xyz/oneindex)  
 
 ## 安装运行
 
